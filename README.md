@@ -1,1 +1,1 @@
-# pr2-applications for trusty
+# pr2-applications for precise

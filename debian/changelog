@@ -1,3 +1,13 @@
+pr2-applications (0.0.20) UNRELEASED; urgency=medium
+
+  [ TheDash ]
+  * Added trusty branch
+  * Added ubuntu trusty code
+
+  [ dash ]
+
+ -- TheDash <noobaca2@gmail.com>  Mon, 01 Jun 2015 09:54:50 -0400
+
 pr2-applications (0.0.19-precise) stable; urgency=low
 
   * Incrementing to SVN: r1232
